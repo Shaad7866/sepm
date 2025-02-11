@@ -10,10 +10,10 @@
     <packaging>jar</packaging>
 
     <name>demo</name>
-    <description>This is my 4th experiment with Maven and Spring Boot</description>
+    <description>Fresh Maven Project with Spring Boot and JUnit for JDK 17</description>
 
     <properties>
-        <java.version>11</java.version>
+        <java.version>17</java.version> <!-- JDK 17 -->
     </properties>
 
     <dependencies>
